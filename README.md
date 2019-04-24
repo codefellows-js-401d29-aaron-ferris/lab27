@@ -8,39 +8,26 @@
 ### Links and Resources
 * [repo](http://xyz.com)
 * [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [AWS DEPLOYMENT](http://lab27af.s3-website-us-west-2.amazonaws.com/)
+* [NETLIFY DEPLOYMENT](https://sad-mahavira-ab9b77.netlify.com/)
+* [AWS PIPELINE DEPLOYMENT](d3tv5u6090a9s.cloudfront.net)
+)
 
 #### Documentation
-* [swagger](http://xyz.com) (API assignments only)
-* [jsdoc](http://xyz.com) (All assignments)
 
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
+Can be found by 
 
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
-
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
-  
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+[x] Counter   
+     [x] will run with stable dom (xit for travis build)  
+[x] For Up event  
+     [x] Assert state changes properly  
+     [x] Assert that state is being transferred to the DOM  
+[x] For Down event  
+     [x] Assert state changes properly  
+     [x] Assert that state is being transferred to the DOM  
+
 
 #### UML
-Link to an image of the UML for your application and response to events
+![UML](./lab27uml.jpg)  
+Drawn with chris and cory
