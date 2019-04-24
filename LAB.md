@@ -41,19 +41,19 @@ For this assignment, work locally instead of at Code Sandbox, as you'll need to 
 [X] Add some sleek and amazing styling, different from the previous lab.
 
 ### Deploy the application
-* Create a new repository for your application at Github and connect your sandbox to it.
-* Clone the repo to your local machine
-* Perform an `npm install`
-* Perform an `npm run build`
-  * You should now have a fully functional static build in the builds folder
-* Do a manual deployment of the `build` folder contents to a new Bucket and Cloud at AWS
-* Setup Netlify to deploy from your master branch
-* Prepare an automated deployment through Cloud Formation
-* Make sure that 'aws.yml' and 'build' are in your .gitignore, and then commit your code back to github
-* Your App should auto-deploy to both Netlify and AWS Cloudfront.
+[X] Create a new repository for your application at Github and connect your sandbox to it.
+[X] Clone the repo to your local machine
+[X] Perform an `npm install`
+[X] Perform an `npm run build`
+  [X] You should now have a fully functional static build in the builds folder
+[X] Do a manual deployment of the `build` folder contents to a new Bucket and Cloud at AWS
+[X] Setup Netlify to deploy from your master branch
+[X] Prepare an automated deployment through Cloud Formation
+[X] Make sure that 'aws.yml' and 'build' are in your .gitignore, and then commit your code back to github
+[X] Your App should auto-deploy to both Netlify and AWS Cloudfront.
 
 Submit all 3 deployed URLs as well as your Travis tests and documentation links.
 
 ### Assignemnt Submission Instructions
 Refer to the [lab-instructions.md](../../../reference/submission-instructions/labs.md) for the complete lab submission process and expectations
-* Submit links to both deployments at AWS
+[X] Submit links to both deployments at AWS
